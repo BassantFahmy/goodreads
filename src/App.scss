@@ -1,0 +1,45 @@
+
+.body{
+  height: 100%;
+  font-family: Poppins-Regular, sans-serif;
+ 
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+p{
+  font-size: 1.6rem !important;
+}
+td{
+  font-size: 1.6rem ;
+}
+.greyText{
+  color:#7c7c7c;
+  line-height: 18px;
+  font-size: 1.6rem !important;
+}
+
+html{
+  font-size: 55.5% !important;
+}
+.icon{
+  cursor: pointer;
+}
+.no-gutters{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.table{
+  background-color: white;
+}
+.tab-pane{
+  background-color: white !important;
+}
+
+
